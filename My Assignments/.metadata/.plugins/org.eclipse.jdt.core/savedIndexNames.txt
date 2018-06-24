@@ -1,9 +1,0 @@
-INDEX VERSION 1.130+/Users/ericescalante/Desktop/My Assignments/.metadata/.plugins/org.eclipse.jdt.core
-674162194.index
-563653177.index
-2972170152.index
-1453300399.index
-3324020542.index
-1596577412.index
-3058332593.index
-1480856221.index
