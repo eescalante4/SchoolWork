@@ -1,0 +1,56 @@
+//---------------------------------------------------
+// Programmer:   Eric Escalante
+// Course:       COSC 1437 Section 005
+// Semester:     Summer 2018
+// Assignment #: 2
+// Due Date:     June 13, 2018
+//---------------------------------------------------
+
+import java.awt.*;
+import javax.swing.*;
+
+public class ImageOrientation {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+			// instantiate a frame from the class JFrame
+		JFrame frame = new JFrame ("Image Orientation");
+
+	  
+			// frame is set to close using EXIT_ON_CLOSE
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	
+
+			// instantiate four labels from the
+			// JLabel class and have each a unique 
+			// image (jpg)
+		
+		
+			     
+			// instantiate a panel from the JPanel
+			// class with minimum dimensions and a given color.
+			// Then add two labels to this panel
+		
+
+
+			// instantiate another panel from the JPanel
+			// class with a given color.  Then add two
+			// labels to this panel
+		
+
+
+			// A primary panel is instantiated from the
+			// JPanel class with a given color.  Then the
+			// two panels are added to this panel
+		
+
+
+			// The primary panel is added to the frame
+			// and made visible
+		
+
+	}  // end method main
+
+} // end class ImageOrientation

@@ -1,0 +1,43 @@
+//----------------------------------------------------
+// Programmer: 		Eric Escalante
+// Course: 			COSC 1437 Section 005
+// Semester: 		Summer 2018
+// Assignment #: 	09
+// Due Date: 		June 27, 2018
+//----------------------------------------------------
+
+
+import javax.swing.*;
+public class SpeakerTester {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		   // declare object variables
+		   // to be used in program
+		Speaker rover, aristotle, someone;
+		
+		   // instantiate 'rover' to be a 'Dog' object
+		rover = new Dog("Rover");
+		rover.speak();
+		rover.announce("Ruff ruff to all my fellow dogs!");
+		
+		   // instantiate 'aristotle' to be a 'Philosopher' object
+
+		
+			// have aristotle pontificate!
+
+		
+			// instantiate 'someone' to be a 'Dog' object
+
+		
+			// instantiate 'someone' to be a 'Philosopher' object
+
+		
+			// have 'someone' pontificate!
+		
+
+	}   // end method main
+
+}   // end class SpeakerTester
